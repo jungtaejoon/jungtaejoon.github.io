@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jungtaejoon.github.io/blog/sitemap.xml
+Sitemap: https://jungtaejoon.github.io/claude-warmup/sitemap.xml
